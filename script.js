@@ -18,7 +18,7 @@ function secondHighest(arr) {
     if (secondMax === -Infinity) {
         return -Infinity;
     } else {
-        console.log(secondMax);
+        return secondMax;
     }
 }
 // secondHighest(arr);
